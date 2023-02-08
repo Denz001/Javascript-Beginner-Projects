@@ -1,5 +1,5 @@
 # Javascript-Beginner-Projects
-This repository is where I upload my beginner projects in Javascript. If there is any update or changes I will make in the code, I will add them in their own README.
+This repository is where I upload my beginner projects in Javascript. If there is any update or changes in the code, I will add them in their own README.
 
 <h1> Project List </h1>
 
